@@ -1,0 +1,6 @@
+[submodule "engine/3rdparty/lua"]
+	path = engine/3rdparty/lua
+	url = https://github.com/lua/lua
+[submodule "engine/3rdparty/sol2"]
+	path = engine/3rdparty/sol2
+	url = https://github.com/ThePhD/sol2
